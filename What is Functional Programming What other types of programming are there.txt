@@ -1,0 +1,110 @@
+(EN-US)
+
+What is "Functional Programming"? What other types of programming are there?
+
+
+(PT-BR)
+
+O que é "Programação Funcional"? Que outros tipos de programação existem?
+
+
+#SoftwareEngineering
+
+#Coding
+
+#Programming
+
+#FunctionalProgramming
+
+
+https://github.com/LeonardoMonteiroLcm/MyDoc (GitHub)
+
+
+***********************************
+
+O que é Programação Funcional?
+
+***********************************
+
+
+A programação funcional é um paradigma de programação baseado em funções matemáticas e na imutabilidade dos dados. Em vez de modificar variáveis e estados, como na programação imperativa, a programação funcional foca em funções puras, que sempre retornam o mesmo resultado para os mesmos argumentos e não têm efeitos colaterais.
+
+
+- Principais características da programação funcional:
+
+
+   . Funções puras: Sem efeitos colaterais e sem modificar estados externos.
+
+   . Imutabilidade: Variáveis não podem ser alteradas após a atribuição.
+
+   . Funções de ordem superior: Funções podem receber outras funções como argumento e retorná-las.
+
+   . Avaliação preguiçosa: Computação ocorre apenas quando necessário.
+
+   . Recursão: Substitui laços for e while, utilizando chamadas recursivas.
+
+
+- Linguagens comuns em programação funcional:
+
+
+   . Haskell
+
+   . Lisp (a mais conhecida)
+
+   . Clojure
+
+   . Elixir
+
+   . F#
+
+   . Scala (suporta funcional e orientado a objetos)
+
+
+- Outros Tipos de Programação:
+
+
+. Programação Imperativa:
+
+
+   * Baseada na execução sequencial de comandos que modificam o estado do programa.
+
+   * Exemplos: C, Python (modo imperativo), JavaScript.
+
+
+. Programação Orientada a Objetos (POO):
+
+
+   * Organiza o código em objetos, que combinam dados e comportamento.
+
+   * Exemplos: Java, C++, Python, C#.
+
+
+. Programação Lógica:
+
+
+   * Baseada em lógica matemática e regras de inferência.
+
+   * Exemplo: Prolog.
+
+
+. Programação Declarativa:
+
+
+   * O programador descreve o o que deve ser feito, e não como fazer.
+
+   * Engloba programação funcional e lógica.
+
+   * Exemplo: SQL (para bancos de dados).
+
+
+. Programação Reativa
+
+
+   * Focada na propagação de mudanças de estado de forma assíncrona.
+
+   * Usada em interfaces gráficas e sistemas reativos.
+
+   * Exemplo: RxJS (JavaScript), React (com hooks).
+
+
+Cada paradigma tem suas vantagens e desafios. Dependendo do problema, um estilo pode ser mais adequado do que outro. Não existem panaceias em computação.
